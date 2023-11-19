@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitaly</h1>
-![github](https://cdn.hackernoon.com/images/itAdCg4hR9MQ99O0VxSivIU8QEk2-2023-11-17T11:16:53.457Z-er7j912ilmio1qgwj1id9h3c)]
+![github](https://cdn.hackernoon.com/images/itAdCg4hR9MQ99O0VxSivIU8QEk2-2023-11-17T11:16:53.457Z-er7j912ilmio1qgwj1id9h3c)
 <h3 align="center">I am a self-taught developer, although I graduated from the Novosibirsk Technical University as a programmer, but that was a long time ago and I did not work by profession, now development is my favorite hobby. I specialize in Javascript and its libraries and frameworks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuklinv&label=Profile%20views&color=0e75b6&style=flat" alt="kuklinv" /> </p>
