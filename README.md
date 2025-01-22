@@ -1,5 +1,3 @@
-<h2 align="center">Hi 👋, I'm Vitaly</h2>
-
 <h3 align="center">I am a self-taught developer, although I graduated from the Novosibirsk Technical University as a programmer, but that was a long time ago and I did not work by profession, now development is my favorite hobby. I specialize in Javascript and its libraries and frameworks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuklinv&label=Profile%20views&color=0e75b6&style=flat" alt="kuklinv" /> </p>
